@@ -15,6 +15,7 @@ I thought of a rough outline for my story as follows:
 1. A general introduction regarding coffee; its origin in general, the entire lifecycle from planting to brewing and types of coffee that are popular today. 
 2. USA specific facts (how it came to USA, weird facts, annual revenue generate, price of coffee in USA compared to other countries, etc.)
 3. A conclusion (why is coffee so popular?, general health benefits and a comparison with other beverages). 
+4. Call to action: What amount of coffee consumption is healthy? Is there a suitable time for consumption?
 
 ## Initial Sketches: 
 
