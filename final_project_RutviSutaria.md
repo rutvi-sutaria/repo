@@ -12,7 +12,7 @@ Shorthand. Please find attached a rough outline on the shorthand site listed abo
 
 ## Method: 
 I thought of a rough outline for my story as follows: 
-1. A general introduction regarding coffee; its origin in general, the entire lifecycle from planting to brewing and types of coffee.
+1. A general introduction regarding coffee; its origin in general, the entire lifecycle from planting to brewing and types of coffee that are popular today. 
 2. USA specific facts (how it came to USA, weird facts, annual revenue generate, price of coffee in USA compared to other countries, etc.)
 3. A conclusion (why is coffee so popular?, general health benefits and a comparison with other beverages). 
 
@@ -31,7 +31,8 @@ The link below contains 4 datasets generated from publicly available websites. I
 
 ## Next Steps:
 
-1. Finalize the topics that I will include (add relevant and/ or drop insignificant parts) for making a cohesive story. 
-2. Get more details from online sources and start working on a rough draft for story. Create neat visualizations for supporting the narrative.  
-3. Choose a more appealing color scheme and modify using images.
-4. Get feedback from friends. 
+Analyse what are the most relevant topics for the story-telling based on impact they create. Get feedback from friends for this. Finalize the topics to be included based on the feedback and consequently add relevant and/ or drop insignificant parts for making a cohesive story. 
+
+Get more details from online sources and start working on a rough draft for story. Find information for the introductary portion which includes origin of coffee, countries currently growing coffee and the entire lifecycle of coffee. Also include the different types of coffee and categorise based on caffiene content.
+
+Create neat visualizations for supporting the narrative. Try to come up with different forms of visualization rather than bar graphs for most. Get embedded codes for all and include that.  Choose a more appealing color scheme and modify using images. Finally, get feedback from friends on the overall story and modify accordingly. 
