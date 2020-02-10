@@ -1,0 +1,34 @@
+
+Final presentation topic: Coffee Consumption in USA
+
+Interest:
+One of the fascinating things I noticed about USA is its consumption of coffee. It seems to be an essential part of the American culture. 
+I have been interested to know more for quite some time and therefore I decided to research on the "Coffee Consumption in USA" for my final assignment.
+
+Medium used: 
+Shorthand. Please find attached a rough outline on the shorthand site listed above along with a few initial sketches. I found few cool pictures from online websites for images and have added them to the website for storage for now. 
+[I'm an inline-style link](https://preview.shorthand.com/AWwEHOqJkFr2yK6K) 
+
+Method: 
+I thought of a rough outline for my story as follows: 
+1. A general introduction regarding coffee; its origin in general, the entire lifecycle from planting to brewing and types of coffee.
+2. USA specific facts (how it came to USA, weird facts, annual revenue generate, price of coffee in USA compared to other countries, etc.)
+3. A conclusion (why is coffee so popular?, general health benefits and a comparison with other beverages). 
+
+Initial Sketches: 
+
+<a href="https://ibb.co/hKPtPRJ"><img src="https://i.ibb.co/brS8SgM/Whats-App-Image-2020-02-09-at-10-08-33-PM.jpg" alt="Whats-App-Image-2020-02-09-at-10-08-33-PM" border="0"></a>
+<a href="https://ibb.co/WWb7Kk3"><img src="https://i.ibb.co/MDYKNch/Whats-App-Image-2020-02-09-at-10-24-54-PM.jpg" alt="Whats-App-Image-2020-02-09-at-10-24-54-PM" border="0"></a>
+<a href="https://ibb.co/mXX4wrT"><img src="https://i.ibb.co/txxDtwK/Whats-App-Image-2020-02-09-at-10-50-45-PM.jpg" alt="Whats-App-Image-2020-02-09-at-10-50-45-PM" border="0"></a>
+
+Data Source:
+
+The link below contains 3 datasets generated from publicly available websites. I have included a brief description and data source as well. 
+[I'm an inline-style link](https://drive.google.com/file/d/14ob9Z6aC1lENmyOerWalwhIZYPe8viHc/view?usp=sharing)
+
+Next Steps:
+
+1. Finalize the topics that I will include (add relevant and/ or drop insignificant parts) for making a cohesive story. 
+2. Get more details from online sources and start working on a rough draft for story. Create neat visualizations for supporting the narrative.  
+3. Choose a more appealing color scheme and modify using images.
+4. Get feedback from friends. 
