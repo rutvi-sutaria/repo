@@ -86,6 +86,11 @@ Below are the questions for the interview and the responses I received:
 
 Insights from the interview: 
 
+1. The article needs to be more impactful. Section 3 has to have more information about the raesons and effects of coffee consumption daily. 
+
+2. The health hazards need to be highlighted. People need to be aware that there are adverse effects of drinking coffee. 
+
+3. The coffee facts (lifecycle and types) and where coffee is consumed is well received by the audience. 
 
 
 ## Revisions: 
