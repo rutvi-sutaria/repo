@@ -2,6 +2,9 @@
 ## Final presentation topic: 
 # Coffee Consumption in USA
 
+
+## PART 1:
+
 ## Interest:
 One of the fascinating things I noticed about USA is its consumption of coffee. It seems to be an essential part of the American culture. 
 I have been interested to know more for quite some time and therefore I decided to research on the "Coffee Consumption in USA" for my final assignment.
@@ -36,4 +39,48 @@ Analyse what are the most relevant topics for the story-telling based on impact 
 
 Get more details from online sources and start working on a rough draft for story. Find information for the introductary portion which includes origin of coffee, countries currently growing coffee and the entire lifecycle of coffee. Also include the different types of coffee and categorise based on caffiene content.
 
-Create neat visualizations for supporting the narrative. Try to come up with different forms of visualization rather than bar graphs for most. Get embedded codes for all and include that.  Choose a more appealing color scheme and modify using images. Finally, get feedback from friends on the overall story and modify accordingly. 
+Create neat visualizations for supporting the narrative. Try to come up with different forms of visualization rather than bar graphs for most. Get embedded codes for all and include that.  Choose a more appealing color scheme and modify using images. Finally, get feedback from friends on the overall story and modify accordingly.
+
+
+## PART 2:
+
+## Restructuring different sections
+
+I modified the initial draft by changing history of coffee to history of coffee in USA specifically. I divided the entire article into four section:
+
+Section 1: History of Coffee in USA (Mostly textual, with an appropriate backgroud image or color).
+
+Section 2: This is subdivided into  two categories: 
+  1. Coffee Facts: The coffee Lifecycle and different types of coffee based on caffeine content.
+  2. USA Coffee Facts: Revenue Generated from 2010 to predictions till 2023, where people usually drink coffee and the number   of cups of coffee consumed per day by an individual.
+  3. Coffee prices around the world for one cup (in USD.)
+  
+ Section 3: What amount of coffee is good for you?
+  1. Number of coffee cups per day chart showing the amount of healthy vs. unhealthy consumption. 
+  2. Health benefits gained when consuming coffee in the right amount. 
+  3. Health hazards of overconsumption of coffee. 
+ 
+
+<a href="https://ibb.co/grcw0xW"><img src="https://i.ibb.co/104KCkX/dr1.jpg" alt="dr1" border="0"></a><br /><a target='_blank' href='https://clueyblog.com/avocado-face-masks'>how to preserve homemade face masks</a><br />
+
+<a href="https://ibb.co/wJ7Lh7K"><img src="https://i.ibb.co/XyD4xDz/dr1-2.jpg" alt="dr1-2" border="0"></a>
+
+## Identifying the audience and conducting interviews
+
+I identified people who dring coffee daily as my target audience. Since a lot of people fall into this category, it was easy to get interviews. Below are the questions for the interview and the responses I received:
+
+### 1. Information about the interviewee:
+
+<a href="https://ibb.co/rwmRQ77"><img src="https://i.ibb.co/LZ8X0kk/Screen-Shot-2020-02-16-at-4-14-59-PM.png" alt="Screen-Shot-2020-02-16-at-4-14-59-PM" border="0"></a>
+
+### 2. About the article wireframe draft:
+
+<a href="https://ibb.co/QncFY7j"><img src="https://i.ibb.co/VDNWM0p/Screen-Shot-2020-02-16-at-4-15-13-PM.png" alt="Screen-Shot-2020-02-16-at-4-15-13-PM" border="0"></a>
+
+### 3. Article Overview:
+<a href="https://ibb.co/pb3ZbD6"><img src="https://i.ibb.co/Dz7kzXP/Screen-Shot-2020-02-16-at-4-15-40-PM.png" alt="Screen-Shot-2020-02-16-at-4-15-40-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>picture to url</a><br />
+
+
+## Revisions: 
+
+Insights from the 
