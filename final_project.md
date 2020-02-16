@@ -67,7 +67,11 @@ Section 2: This is subdivided into  two categories:
 
 ## Identifying the audience and conducting interviews
 
-I identified people who dring coffee daily as my target audience. Since a lot of people fall into this category, it was easy to get interviews. Below are the questions for the interview and the responses I received:
+I identified people who dring coffee daily as my target audience. Since a lot of people fall into this category, it was easy to get interviews. 
+
+I interviewed people from my dorm and at Heinz college. 
+
+Below are the questions for the interview and the responses I received:
 
 ### 1. Information about the interviewee:
 
@@ -78,9 +82,12 @@ I identified people who dring coffee daily as my target audience. Since a lot of
 <a href="https://ibb.co/QncFY7j"><img src="https://i.ibb.co/VDNWM0p/Screen-Shot-2020-02-16-at-4-15-13-PM.png" alt="Screen-Shot-2020-02-16-at-4-15-13-PM" border="0"></a>
 
 ### 3. Article Overview:
-<a href="https://ibb.co/pb3ZbD6"><img src="https://i.ibb.co/Dz7kzXP/Screen-Shot-2020-02-16-at-4-15-40-PM.png" alt="Screen-Shot-2020-02-16-at-4-15-40-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>picture to url</a><br />
+<a href="https://ibb.co/pb3ZbD6"><img src="https://i.ibb.co/Dz7kzXP/Screen-Shot-2020-02-16-at-4-15-40-PM.png" alt="Screen-Shot-2020-02-16-at-4-15-40-PM" border="0"></a><br />
+
+Insights from the interview: 
+
 
 
 ## Revisions: 
 
-Insights from the 
+ 
