@@ -110,9 +110,9 @@ This version looks very different to the one I started with in Part 1.
 
 ## Next Steps: 
 
-Gather more information and resources to be included. 
-Need to create digital charts.
-Transfer all the information to shorthand.
+1. Gather more information and resources to be included. 
+2. Need to create digital charts.
+3. Transfer all the information to shorthand.
 
 
  
