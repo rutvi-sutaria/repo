@@ -95,4 +95,24 @@ Insights from the interview:
 
 ## Revisions: 
 
+The revised sketches for the story are as given below. 
+ 
+I have added information and details in a few parts and eliminated unnecessary details. I have further defined the types of    charts to be used and where they are to be added. Moreover, I have organized the concluding section to provide a clearer       picture and spread awareness regarding coffee consumption!
+
+This version looks very different to the one I started with in Part 1.
+
+<a href="https://ibb.co/kMNGKmw"><img src="https://i.ibb.co/wY5dycP/2-1.jpg" alt="2-1" border="0"></a>
+
+<a href="https://ibb.co/CsXbw6B"><img src="https://i.ibb.co/VphgLxV/2-2.jpg" alt="2-2" border="0"></a>
+
+<a href="https://ibb.co/Syzp62K"><img src="https://i.ibb.co/fFs7XbC/2-3.jpg" alt="2-3" border="0"></a>
+
+
+## Next Steps: 
+
+Gather more information and resources to be included. 
+Need to create digital charts.
+Transfer all the information to shorthand.
+
+
  
