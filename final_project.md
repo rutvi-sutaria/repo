@@ -68,9 +68,12 @@ The data source is same as the one mentioned in Part 1: https://drive.google.com
 
 ## Identifying the audience and conducting interviews
 
-I identified people who dring coffee daily as my target audience. Since a lot of people fall into this category, it was easy to get interviews. 
+I identified people who dring coffee daily as my target audience. Since a lot of people fall into this category, it was easy to get interviews. I interviewed people from my dorm and at Heinz college. 
 
-I interviewed people from my dorm and at Heinz college. 
+The interviews were aimed to determine the following:
+1. The target audience and what they are interested in knowing.
+2. The most and the least effective (or informative) sections in the story.
+3. Any additional details that should be included in the narrative. 
 
 Below are the questions for the interview and the responses I received:
 
