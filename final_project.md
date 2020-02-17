@@ -115,5 +115,7 @@ This version looks very different to the one I started with in Part 1.
 2. Need to create digital charts.
 3. Transfer all the information to shorthand.
 
+Link to shorthand: <https://shorthand.com/organisations/JSrgFWI7zn/teams/ilpUD1hM3R/stories/wM7gi1N5hE>
+
 
  
