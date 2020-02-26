@@ -151,7 +151,7 @@ Hee are a few of the things I had in mind as I was designing the site:
 
 2. For coffee life cycle, I chose an earthy, mild colored image of a coffee cup with flowers. 
 
-<a href="https://ibb.co/Fs0CH8t"><img height = 200 widht = 200src="https://i.ibb.co/f8nLDr7/photo-1528697203043-733dafdaa316.jpg" alt="photo-1528697203043-733dafdaa316" border="0"></a>
+<a href="https://ibb.co/Fs0CH8t"><img height = 200 widht = 200 src="https://i.ibb.co/f8nLDr7/photo-1528697203043-733dafdaa316.jpg" alt="photo-1528697203043-733dafdaa316" border="0"></a>
 
 3. I used autodraw.io for drawing the caffiene content graphic.  
 
