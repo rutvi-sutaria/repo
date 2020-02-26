@@ -161,9 +161,9 @@ Hee are a few of the things I had in mind as I was designing the site:
 
 4. I tried to contrast the health benefits and the health risks with appropriate images and giving the former a white background and the latter a dark one. 
 
-<a href="https://ibb.co/YQgNchX"><img src="https://i.ibb.co/GpmdWR9/he.jpg" alt="he" border="0"></a>
+<a href="https://ibb.co/YQgNchX"><img height = 200 widht = 200 src="https://i.ibb.co/GpmdWR9/he.jpg" alt="he" border="0"></a>
 
-<a href="https://ibb.co/7GHMqJ9"><img src="https://i.ibb.co/qRzqvMZ/headache.jpg" alt="headache" border="0"></a>
+<a href="https://ibb.co/7GHMqJ9"><img height = 200 widht = 200 src="https://i.ibb.co/qRzqvMZ/headache.jpg" alt="headache" border="0"></a>
 
 #### Designing and Integrating:
 
