@@ -121,4 +121,47 @@ This version looks very different to the one I started with in Part 1.
 Link to shorthand: <https://shorthand.com/organisations/JSrgFWI7zn/teams/ilpUD1hM3R/stories/wM7gi1N5hE>
 
 
+ ## Part 3:
  
+### Final Intended Audience: 
+There are a lot of coffee drinkers around in USA and the purpose of my article is to make them aware of their coffee drinking habits. I feel that this article is especially useful to people who drink excessive amounts of coffee. The information is also useful to my friends and companions at CMU as long hours of studies and late night projects are usually accompanied by coffee!
+
+I hope that the article will be able to inspire them to be more conscious of their coffee consumption. 
+
+### Further Modifications to the draft article:
+
+#### Adding Content:
+
+Though I had laid out the different sections that I wanted to include in the final article and done primary reserach, it was not enough. I had to do detailed research on several parts of the story including history of coffee in USA, coffee life cycle, different types of coffee, the health benefits and risks associated with coffee and also the recommended daily intake. I found all the information online and was able to put together the different peices in a couple of hours. Editing the information and defining boundaries on what to include took me another hour or two.  
+
+#### Embedding Tableau Charts:
+
+The next step was to upload the data visuals from Tableau desktop to Tableau online. From tableau online, I found the embedded code that I was able to insert as an HTML code on to the website. 
+After that, I had slight difficulty in trying to fit the charts on the shorthand site as they were too wide for the site and therefore required scrolling. 
+
+#### Images and Graphics:
+
+I used multiple free images websites to find suitable pictures for the story. Pixabay and pexels.com are my favouites. Also, I used autodraw.io for drawing the caffiene content graphic. I also tried to draw digitally several parts of coffee lifecycle but they did not turn out to be very appealing. So I used a suitable background image instead!
+
+
+#### Designing and Integrating:
+
+Shorthand is a bit tricky. I chose to start a blank template and work on that. It does not allow to modify the size of text box or images. Also, sometimes the images were enlarged out of proportion which would lead to 
+
+
+### References:
+
+<https://www.statista.com/chart/19524/cups-of-coffee-drunk-by-americans-perday/>
+<https://www.statista.com/outlook/30010000/109/coffee/united-states>
+<https://www.statista.com/statistics/250148/us-coffee-consumption-by-location/>      
+<https://study.com/academy/lesson/history-of-coffee-in-america.html>
+<https://theculturetrip.com/north-america/usa/articles/a-brief-history-of-american-coffee-culture/>
+<https://parklane.ie/2018/01/12/life-cycle-of-the-coffee-bean/>
+<https://www.longbottomcoffee.com/coffee-101/the-coffee-bean/life-cycle-of-the-coffee-bean.html>
+<https://www.healthline.com/nutrition/how-much-coffee-should-you-drink#recommended-intake>
+<https://www.healthline.com/nutrition/coffee-good-or-bad#section1>
+<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/coffee-and-health/faq-20058339>
+
+### Please find the final published article here:
+
+https://carnegiemellon.shorthandstories.com/coffee--consumption-in-usa/index.html
