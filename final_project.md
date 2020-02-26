@@ -134,19 +134,35 @@ I hope that the article will be able to inspire them to be more conscious of the
 
 Though I had laid out the different sections that I wanted to include in the final article and done primary reserach, it was not enough. I had to do detailed research on several parts of the story including history of coffee in USA, coffee life cycle, different types of coffee, the health benefits and risks associated with coffee and also the recommended daily intake. I found all the information online and was able to put together the different peices in a couple of hours. Editing the information and defining boundaries on what to include took me another hour or two.  
 
-#### Embedding Tableau Charts:
+#### Embedding Visualization Charts:
 
-The next step was to upload the data visuals from Tableau desktop to Tableau online. From tableau online, I found the embedded code that I was able to insert as an HTML code on to the website. 
-After that, I had slight difficulty in trying to fit the charts on the shorthand site as they were too wide for the site and therefore required scrolling. 
+I chose to use Tableau for data visualization. The next step was to upload the data visuals from Tableau desktop to Tableau online. From tableau online, I found the embedded code that I was able to insert as an HTML code on to the website. 
+
 
 #### Images and Graphics:
 
-I used multiple free images websites to find suitable pictures for the story. Pixabay and pexels.com are my favouites. Also, I used autodraw.io for drawing the caffiene content graphic. I also tried to draw digitally several parts of coffee lifecycle but they did not turn out to be very appealing. So I used a suitable background image instead!
-
+I used multiple free images websites to find suitable pictures for the story. My favouites are pixabay.com, unsplash.com and pexels.com. I tried to blend in the images with the content of the story.
+Hee are a few of the things I had in mind as I was designing the site:
+1. I wished to complement the coffee history with images that gave a vintage effect. 
+2. For coffee life cycle, I chose an earthy, mild colored image of a coffee cup with flowers.  
+3. I used autodraw.io for drawing the caffiene content graphic.  
+4. I tried to contrast the health benefits and the health risks with appropriate images and giving the former a white background and the latter a dark one. 
 
 #### Designing and Integrating:
 
-Shorthand is a bit tricky. I chose to start a blank template and work on that. It does not allow to modify the size of text box or images. Also, sometimes the images were enlarged out of proportion which would lead to 
+Shorthand is a bit tricky. I chose to start with a blank template and worked on that. It does not allow to modify the size of text box or images. Also, sometimes the images were enlarged out of proportion which would blurr them. So appropriate images had to be chosen and the text layout and alignment had to fit accodingly.
+
+Here are a few changes I had to make to the initial plan: 
+
+1. I tried to draw digitally several parts of coffee lifecycle but they did not turn out to be very appealing. So I used a suitable background image instead!
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8mvMFH1/Screen-Shot-2020-02-22-at-2-02-24-PM.png" alt="Screen-Shot-2020-02-22-at-2-02-24-PM" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SQ9bq4s/Screen-Shot-2020-02-22-at-2-06-30-PM.png" alt="Screen-Shot-2020-02-22-at-2-06-30-PM" border="0"></a>
+
+2. I had some difficulty in trying to fit the charts on the shorthand site as they were too wide for the site and therefore required scrolling horizontally. I modified the html code to adjust the width. 
+
+3. After integrating all, I still had to modify the layout( background color, images, text alignment, etc) of certain sections to give a good flow to the entire story. FOr example, I had to breakdown the coffee facts section into two individual sections: Coffee lifecycle and Coffee types.
+
 
 
 ### References:
