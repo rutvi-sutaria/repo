@@ -146,7 +146,9 @@ Hee are a few of the things I had in mind as I was designing the site:
 1. I wished to complement the coffee history with images that gave a vintage effect.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tqqMFtk/cbg.jpg" alt="cbg" border="0"></a>
+
 <a href="https://ibb.co/7WkSgbz"><img src="https://i.ibb.co/0MsnBQX/coffee-pot-1149431-960-720.jpg" alt="coffee-pot-1149431-960-720" border="0"></a>
+
 <a href="https://ibb.co/kM7G6cv"><img src="https://i.ibb.co/6NMyJsL/reasons-for-drinking-coffee.jpg" alt="reasons-for-drinking-coffee" border="0"></a>
 
 2. For coffee life cycle, I chose an earthy, mild colored image of a coffee cup with flowers. 
@@ -160,6 +162,7 @@ Hee are a few of the things I had in mind as I was designing the site:
 4. I tried to contrast the health benefits and the health risks with appropriate images and giving the former a white background and the latter a dark one. 
 
 <a href="https://ibb.co/YQgNchX"><img src="https://i.ibb.co/GpmdWR9/he.jpg" alt="he" border="0"></a>
+
 <a href="https://ibb.co/7GHMqJ9"><img src="https://i.ibb.co/qRzqvMZ/headache.jpg" alt="headache" border="0"></a>
 
 #### Designing and Integrating:
