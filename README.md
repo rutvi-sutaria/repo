@@ -10,17 +10,18 @@ Thank you!
 # repository link
 <https://rutvi-sutaria.github.io/repo/>
 
-Experiment 1:Re-visualizing OECD Data:
+## Experiment 1:
+Re-visualizing OECD Data:
 <https://rutvi-sutaria.github.io/repo/dataviz2.html>
 
-Experiment 2: Critique a data visualization by design 
+## Experiment 2: 
+Critique a data visualization by design 
 <https://rutvi-sutaria.github.io/repo/CritiqueByDesign.html>
 
-Experiment 3: Publishing an online article "Coffee Consumption in USA":
-
+## Experiment 3: 
+Publishing an online article "Coffee Consumption in USA":
 I describe the process of writing an article and publishing it online.
 <https://rutvi-sutaria.github.io/repo/final_project>
-
 You can check out the published article here: 
 <https://carnegiemellon.shorthandstories.com/coffee--consumption-in-usa/index.html>
 
