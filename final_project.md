@@ -62,7 +62,7 @@ Section 2: This is subdivided into  two categories:
  
 The data source is same as the one mentioned in Part 1: https://drive.google.com/file/d/14ob9Z6aC1lENmyOerWalwhIZYPe8viHc/view?usp=sharing
 
-<a href="https://ibb.co/grcw0xW"><img src="https://i.ibb.co/104KCkX/dr1.jpg" alt="dr1" border="0"></a><br /><a target='_blank' href='https://clueyblog.com/avocado-face-masks'>how to preserve homemade face masks</a><br />
+<a href="https://ibb.co/grcw0xW"><img src="https://i.ibb.co/104KCkX/dr1.jpg" alt="dr1" border="0"></a><br />
 
 <a href="https://ibb.co/wJ7Lh7K"><img src="https://i.ibb.co/XyD4xDz/dr1-2.jpg" alt="dr1-2" border="0"></a>
 
