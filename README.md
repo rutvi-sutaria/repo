@@ -16,7 +16,7 @@ Re-visualizing OECD Data:
 
 ## Experiment 2: 
 Critique a data visualization by design 
-<https://rutvi-sutaria.github.io/repo/CritiqueByDesign.html>
+<https://rutvi-sutaria.github.io/repo/exp2>
 
 ## Experiment 3: 
 Publishing an online article "Coffee Consumption in USA":
