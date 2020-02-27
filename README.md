@@ -12,7 +12,7 @@ Thank you!
 
 ## Experiment 1:
 Re-visualizing OECD Data:
-<https://rutvi-sutaria.github.io/repo/dataviz2.html>
+<https://rutvi-sutaria.github.io/repo/exp1>
 
 ## Experiment 2: 
 Critique a data visualization by design 
