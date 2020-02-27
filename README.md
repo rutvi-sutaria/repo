@@ -20,8 +20,10 @@ Critique a data visualization by design
 
 ## Experiment 3: 
 Publishing an online article "Coffee Consumption in USA":
+
 I describe the process of writing an article and publishing it online.
 <https://rutvi-sutaria.github.io/repo/final_project>
+
 You can check out the published article here: 
 <https://carnegiemellon.shorthandstories.com/coffee--consumption-in-usa/index.html>
 
