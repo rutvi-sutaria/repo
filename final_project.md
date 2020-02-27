@@ -194,3 +194,9 @@ Here are a few changes I had to make to the initial plan:
 ### Please find the final published article here:
 
 https://carnegiemellon.shorthandstories.com/coffee--consumption-in-usa/index.html
+
+
+#### Thank you!
+
+Click here to navigate to the repository: <https://rutvi-sutaria.github.io/repo/>
+
