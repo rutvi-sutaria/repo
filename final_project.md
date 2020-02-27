@@ -121,7 +121,7 @@ This version looks very different to the one I started with in Part 1.
 Link to shorthand: <https://shorthand.com/organisations/JSrgFWI7zn/teams/ilpUD1hM3R/stories/wM7gi1N5hE>
 
 
- ## Part 3:
+## PART 3:
  
 ### Final Intended Audience: 
 There are a lot of coffee drinkers around in USA and the purpose of my article is to make them aware of their coffee drinking habits. I feel that this article is especially useful to people who drink excessive amounts of coffee. The information is also useful to my friends and companions at CMU as long hours of studies and late night projects are usually accompanied by coffee!
