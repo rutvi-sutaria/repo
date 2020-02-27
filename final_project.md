@@ -172,17 +172,15 @@ Shorthand is a bit tricky. I chose to start with a blank template and worked on 
 
 Here are a few changes I had to make to the initial plan: 
 
-1. I tried to draw digitally several parts of coffee lifecycle but they did not turn out to be very appealing. So I used a suitable background image instead!
+I tried to draw digitally several parts of coffee lifecycle but they did not turn out to be very appealing. So I used a suitable background image instead!
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/8mvMFH1/Screen-Shot-2020-02-22-at-2-02-24-PM.png" alt="Screen-Shot-2020-02-22-at-2-02-24-PM" border="0"></a> <a href="https://imgbb.com/"><img src="https://i.ibb.co/SQ9bq4s/Screen-Shot-2020-02-22-at-2-06-30-PM.png" alt="Screen-Shot-2020-02-22-at-2-06-30-PM" border="0"></a>
 
-2. I had some difficulty in trying to fit the charts on the shorthand site as they were too wide for the site and therefore required scrolling horizontally. I modified the html code to adjust the width. 
-
-3. After integrating all, I still had to modify the layout( background color, images, text alignment, etc) of certain sections to give a good flow to the entire story. For example, I had to breakdown the coffee facts section into two individual sections: Coffee lifecycle and Coffee types.
+After integrating all, I still had to modify the layout( background color, images, text alignment, etc) of certain sections to give a good flow to the entire story. For example, I had to breakdown the coffee facts section into two individual sections: Coffee Lifecycle and Coffee Types.
 
 #### My experience:
 
-Looking back at Part 1, I am amazed at how much my graphics have evolved as the story becoame more concrete. The process was demanding and time-consuming but also a lot of fun. Coming up with a topic was a bit hard as there were no boundaries. I learned a lot about coffee consumption, something I had been procrastinating for a long time. Apart from online research, I learned some intereting facts from my interviewees.
+Looking back at Part 1, I am amazed at how much my graphics have evolved as the story became more concrete. The process was demanding and time-consuming but also a lot of fun. Coming up with a topic was a bit hard as there were no boundaries. I learned a lot about the effects of drinking coffee, something I had been procrastinating to do for a long time. Apart from online research, I learned some intereting facts from my interviewees too!
 
 
 ### References:
