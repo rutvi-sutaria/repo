@@ -181,14 +181,23 @@ Here are a few changes I had to make to the initial plan:
 ### References:
 
 <https://www.statista.com/chart/19524/cups-of-coffee-drunk-by-americans-perday/>
+
 <https://www.statista.com/outlook/30010000/109/coffee/united-states>
-<https://www.statista.com/statistics/250148/us-coffee-consumption-by-location/>      
+
+<https://www.statista.com/statistics/250148/us-coffee-consumption-by-location/> 
+
 <https://study.com/academy/lesson/history-of-coffee-in-america.html>
+
 <https://theculturetrip.com/north-america/usa/articles/a-brief-history-of-american-coffee-culture/>
+
 <https://parklane.ie/2018/01/12/life-cycle-of-the-coffee-bean/>
+
 <https://www.longbottomcoffee.com/coffee-101/the-coffee-bean/life-cycle-of-the-coffee-bean.html>
+
 <https://www.healthline.com/nutrition/how-much-coffee-should-you-drink#recommended-intake>
+
 <https://www.healthline.com/nutrition/coffee-good-or-bad#section1>
+
 <https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/coffee-and-health/faq-20058339>
 
 ### Please find the final published article here:
